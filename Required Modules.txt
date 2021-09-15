@@ -1,0 +1,4 @@
+You have to install bellow modules of python
+
+	1)pip install PyQt5
+	2)pip install qt-Tool
